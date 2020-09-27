@@ -1,4 +1,4 @@
-.HelloDuc {
+.Main {
   height:100vh;
   width: 100vw;
   background-size: cover;
@@ -14,12 +14,12 @@ p {
     padding: 0;
 }
 
-.DucName {
+.Main_Name {
     font-size: 4em;
     top: 40%;
 }
 
-.DucTitle {
+.Main_Title {
     font-size: 2em;
     top: 41%;
 }

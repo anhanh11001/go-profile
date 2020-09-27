@@ -1,8 +1,8 @@
 import React from 'react';
 
-export function AboutMe() {
+export function Profile() {
     return (
-      <div className="AboutMe" id="AboutMe">
+      <div className="Profile" id="Profile">
         <h1>This is the about me</h1>
       </div>
     )
