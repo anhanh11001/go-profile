@@ -6,7 +6,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func SetUpRouter(server *gin.Engine) {
+func SetUpRouters(server *gin.Engine) {
 	fmt.Println("Setting up routers ...")
 
 	// Profile

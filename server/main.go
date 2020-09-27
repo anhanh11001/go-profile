@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	"github.com/anhanh11001/go-profile/middlewares"
 	"github.com/anhanh11001/go-profile/routers"
 	"github.com/gin-gonic/gin"
 )
@@ -12,7 +13,8 @@ func main() {
 
 	server := gin.Default()
 
-	routers.SetUpRouter(server)
+	middlewares.SetUpMongoDb()
+	routers.SetUpRouters(server)
 
 	server.Run() // Run at 8080
 }
