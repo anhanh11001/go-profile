@@ -4,6 +4,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-image: linear-gradient(to right, rgba(0, 102, 153, 0.3), rgba(0, 102, 153, 0.3)), url("https://c4.wallpaperflare.com/wallpaper/827/121/167/artwork-simple-background-simple-ink-drawing-hd-wallpaper-preview.jpg");
+  text-align: center;
 }
 
 p {
