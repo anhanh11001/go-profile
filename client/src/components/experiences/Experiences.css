@@ -1,0 +1,21 @@
+.Experience_Main {
+    display: inline-block;
+    width: 30%;
+}
+
+.Experience_Details {
+    width: 60%;
+    display: inline-block;
+}
+
+.Experience_Org {
+    display: block;
+}
+
+.Experience_Time {
+    display: block;
+}
+
+.Experience_Title {
+    display: block;
+}
