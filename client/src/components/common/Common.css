@@ -1,0 +1,10 @@
+.container {
+    display: block;
+    width: 50vw;
+    background-color: red;
+    margin: auto;
+}
+
+.round_img {
+  border-radius: 75%;
+}

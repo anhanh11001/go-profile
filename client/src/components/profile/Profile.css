@@ -1,0 +1,9 @@
+.Profile {
+    width: 100vw;
+}
+
+.Profile_Img {
+    background-image: "./profile.jpg";
+    width: 250px;
+    height: 250px;
+}
